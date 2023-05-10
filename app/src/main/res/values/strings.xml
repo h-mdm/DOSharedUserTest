@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Device Owner Shared User Test</string>
+    <string name="description">This application must be signed with the same keys as the device
+        owner application. Please contact the device owner application developer to request the
+        signature keys. \n\nThe sample privileged action is the device reboot, which is only
+    available to the device owner.</string>
+    <string name="reboot">Reboot the device</string>
+    <string name="reboot_failed">Operation is failed. Please make sure your device is managed by
+    a device owner application!</string>
+</resources>
